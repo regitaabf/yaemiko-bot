@@ -22,9 +22,9 @@ global.mess = {
     private: 'Fitur ini hanya bisa digunakan di private message!',
     bot: 'Fitur ini khusus pengguna bot!',
     wait: 'Wait a minute, data is being processed.',
-    error: 'Maaf, Terjadi Kesalahan',
-    errapi: 'Maaf, Terjadi Kesalahan',
-    errmor: 'Maaf, Terjadi Kesalahan',
+    error: 'Maaf Terjadi Kesalahan',
+    errapi: 'Maaf Terjadi Kesalahan',
+    errmor: 'Maaf Terjadi Kesalahan',
     endLimit: 'Limit harian anda telah habis, limit akan direset setiap 12 jam!',
 }
 global.limitawal = {
