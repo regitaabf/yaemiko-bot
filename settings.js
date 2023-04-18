@@ -3,7 +3,7 @@
 const fs = require('fs')
 const chalk = require('chalk')
 global.owner = ['6285697285563']
-global.ownernomer = "62856972855632"
+global.ownernomer = "6285697285563"
 global.premium = ['6285697285563']
 global.packname = 'Ƴąҽ Ɱíƙօ Ɓօƭ'
 global.author = 'Instagram: @rwcode.js'
