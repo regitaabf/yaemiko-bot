@@ -21,7 +21,7 @@
   "author": "TioXd",
   "license": "MIT",
   "dependencies": {
-    "@adiwajshing/baileys": "npm:baileys",
+    "@adiwajshing/baileys": "github:hostinger-bot/baileyss",
     "@adiwajshing/keyed-db": "^0.2.4",
     "@bochilteam/scraper": "^3.0.0",
     "@vitalets/google-translate-api": "^9.0.0",
