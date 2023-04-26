@@ -6,6 +6,8 @@ RUN apt-get update && \
   imagemagick \
   neofetch -y \
   webp && \
+  apt-get upgrade -y && \
+  rm -rf /var/lib/apt/lists/*
 
 COPY package.json .
 
@@ -18,5 +20,5 @@ EXPOSE 5000
 RUN npm install pm2 -g
 
 CMD pm2 start index.js && \
-pm2 save && \
+pm2 save & \
 pm2 logs
